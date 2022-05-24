@@ -1,0 +1,9 @@
+// Gerente é um funcionário, Gerente herda as características/comportamento
+//Gerente assina o contrato autenticável
+public class Gerente extends Funcionario implements Autenticavel {
+	
+	public double getBonificacao() {
+		return super.getSalario();
+	}
+}	
+

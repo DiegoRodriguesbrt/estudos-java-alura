@@ -1,0 +1,22 @@
+// Gerente é um funcionário, Gerente herda as características/comportamento
+public class Gerente extends Funcionario {
+	
+	private int senhaDoGerente;
+	
+	public boolean autentica(int senha) {
+		if(this.senhaDoGerente == senhaDoGerente) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	public void setSenhaDoGerente(int senhaDoGerente) {
+		this.senhaDoGerente = senhaDoGerente;
+	}
+	
+	public double getBonificacao() {
+		return super.getSalario();
+	}
+}	
+

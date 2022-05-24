@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ContaPoupanca"/>
+    <fullyQualifiedTypeName name="Funcionario"/>
+    <fullyQualifiedTypeName name="SistemaInterno"/>
+    <fullyQualifiedTypeName name="Administrador"/>
+    <fullyQualifiedTypeName name="FuncionarioAutenticavel"/>
+    <fullyQualifiedTypeName name="Autenticavel"/>
+    <fullyQualifiedTypeName name="Autenticador"/>
+    <fullyQualifiedTypeName name="Tributavel"/>
+    <fullyQualifiedTypeName name="CalculadorDeImposto"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="MinhaExcecao"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="modelo.CalculadorDeImposto"/>
+    <fullyQualifiedTypeName name="modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="modelo.ContaPoupanca"/>
+</qualifiedTypeNameHistroy>

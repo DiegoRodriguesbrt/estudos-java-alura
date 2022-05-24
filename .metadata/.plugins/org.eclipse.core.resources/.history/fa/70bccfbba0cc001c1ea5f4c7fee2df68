@@ -1,0 +1,12 @@
+
+public class TestaTributaveis {
+	public static void main(String[] args) {
+		ContaCorrente cc = new ContaCorrente(22, 22);
+		cc.deposita(200);
+		
+		CalculadorDeImposto calc = new CalculadorDeImposto();
+		calc.registra(cc);
+		
+		System.out.println(calc.getValorImposto());
+	}
+}
